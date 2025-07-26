@@ -10,7 +10,7 @@ Currently, I'm learning React, working with APIs, and exploring how AI can enhan
 
 Here are a few things I’ve built or am working on:
 
-### [Personal Website](link)
+### [Personal Website](https://colin-kurniawan.github.io)
 > 
 
 ---
@@ -30,7 +30,7 @@ React · Tailwind CSS
 
 ## Let's Connect!
 
-- [Personal Website](https://colinkurniawan.github.io)
+- [Personal Website](https://colin-kurniawan.github.io)
 - Email: colinconnor06@gmail.com
 
 Thanks for stopping by! 
