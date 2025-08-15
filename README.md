@@ -1,8 +1,6 @@
 # Hi, I'm Colin Kurniawan!
 
-I'm a rising sophomore studying Computer Science at the University of Maryland. I’m passionate about full-stack web development and love building projects that solve real problems or teach me something new.
-
-Currently, I'm learning React, working with APIs, and exploring how AI can enhance user experiences.
+I am a Sophomore at the University of Maryland, College Park pursuing a Bachelors in Computer Science and Mathematics on a Statistics Track. I love building projects that solve real problems or teach me something new.
 
 ---
 
