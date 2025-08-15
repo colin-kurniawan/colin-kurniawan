@@ -25,6 +25,7 @@ Java · Python · JavaScript · HTML · CSS
 React · Tailwind CSS 
 
 **Currently learning:**  
+Node.js · Express
 
 
 ---
