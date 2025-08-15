@@ -10,7 +10,8 @@ Currently, I'm learning React, working with APIs, and exploring how AI can enhan
 
 Here are a few things I’ve built or am working on:
 
-- [Poker Simulator](https://github.com/colin-kurniawan/poker-bot)
+- [Poker Simulator](https://github.com/colin-kurniawan/poker-sim)
+- [Stock Predictor](https://github.com/colin-kurniawan/stock-predictor)
 > 
 
 ---
